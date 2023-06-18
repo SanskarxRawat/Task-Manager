@@ -9,10 +9,6 @@
         {
             "src": "/api/v1/tasks",
             "dest": "app.js"
-        },
-      {
-        "src": "/(.*)",
-        "dest": "index.html"
-      }
+        }
     ]
   }
